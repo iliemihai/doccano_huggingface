@@ -1,6 +1,6 @@
 # Doccano annotation server with spacy backend
 
-- [Doccano annotation server with spacy backend](#doccano-annotation-server-with-spacy-backend)
+- [Doccano annotation server with huggingface backend](#doccano-annotation-server-with-spacy-backend)
   - [Getting started](#getting-started)
     - [Spinning up the server](#spinning-up-the-server)
     - [Get data file that can be imported into doccano](#get-data-file-that-can-be-imported-into-doccano)
