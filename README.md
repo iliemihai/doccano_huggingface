@@ -1,4 +1,4 @@
-# Doccano annotation server with Huggingface backend
+# Doccano NER annotation server with Huggingface backend
 
 - [Doccano annotation server with huggingface backend](#doccano-annotation-server-with-huggingface-backend)
   - [Getting started](#getting-started)
