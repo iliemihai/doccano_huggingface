@@ -3,7 +3,6 @@
 - [Doccano annotation server with huggingface backend](#doccano-annotation-server-with-huggingface-backend)
   - [Getting started](#getting-started)
     - [Spinning up the server](#spinning-up-the-server)
-    - [Get data file that can be imported into doccano](#get-data-file-that-can-be-imported-into-doccano)
   - [Configure Doccano](#configure-doccano)
     - [Create a project](#create-a-project)
     - [Import Dataset](#import-dataset)
