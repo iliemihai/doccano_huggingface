@@ -12,11 +12,8 @@
       - [Set parameters](#set-parameters)
       - [Set a template](#set-a-template)
       - [Set mappings](#set-mappings)
-  - [Training a custom model](#training-a-custom-model)
     - [Install necessary python dependencies](#install-necessary-python-dependencies)
     - [Export the dataset](#export-the-dataset)
-    - [Create a `.huggingface` training file](#create-a-huggingface-training-file)
-    - [Run the training](#run-the-training)
     - [Rebuild the image](#rebuild-the-image)
 
 ``` bash
@@ -89,7 +86,6 @@ Here we can customize the mapping between the response we get from the annotatio
 Finally we have to provide the mapping between the labels returned by the huggingface backend and the ones present in doccano. It looks like we have to provide this even in the case that they are identical.
 ![mappings](docs/doccano_automl_setmappings.png)
 
-## Training a custom model
 
 ### Install necessary python dependencies
 ``` bash
